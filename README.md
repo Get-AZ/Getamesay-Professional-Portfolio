@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://getamesay-ml-cloud-ai.astute-cove-1824.chatgpt.site"><strong>View Live Portfolio</strong></a>
+  <a href="https://getamesay-ml-cloud-ai.getgad-uss.chatgpt.site"><strong>View Live Portfolio</strong></a>
   ·
   <a href="https://www.linkedin.com/in/getamesay-zegeye-7570702b7"><strong>LinkedIn</strong></a>
   ·
@@ -43,6 +43,11 @@ Computer Science, AI, and Data Science educator and practitioner with extensive 
 | 8 | [Production MLOps](https://github.com/Get-AZ/Level_8_MLOps_Project) | Flask API, Docker, MLflow, DVC, testing and CI/CD |
 | 9 | [Enterprise Cloud ML](https://github.com/Get-AZ/Level-9-Enterprise-Cloud-ML) | Azure ML registry, managed endpoint deployment and monitoring evidence |
 
+## Generative AI
+
+- [Single PDF RAG Assistant](projects/Single-PDF-RAG-Assistant) — Streamlit, local MiniLM embeddings, persistent FAISS indexing and hybrid semantic/keyword retrieval with neighboring chunks. Baseline: 11/12 manually reviewed passes. Final retest: 12/12 reported by the developer on the same one-PDF development/regression set; not a general accuracy claim.
+- [Read the case study](https://getamesay-ml-cloud-ai.getgad-uss.chatgpt.site/rag.html) — architecture, evaluation boundaries and downloadable CV/interview materials. Local Python app; the case-study page does not host inference.
+
 ## Business Intelligence
 
 - [Power BI Analytics Portfolio](https://github.com/Get-AZ/Power-BI-Analytics-Portfolio) — executive dashboards for revenue, profit, product performance and purchase orders.
@@ -72,7 +77,7 @@ Teaching experience includes Computer Science, Artificial Intelligence, Data Sci
 
 Visit the complete interactive portfolio for project summaries, skills and professional materials:
 
-**[Open Getamesay Zegeye’s Live Portfolio](https://getamesay-ml-cloud-ai.astute-cove-1824.chatgpt.site)**
+**[Open Getamesay Zegeye’s Live Portfolio](https://getamesay-ml-cloud-ai.getgad-uss.chatgpt.site)**
 
 ---
 
