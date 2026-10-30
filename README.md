@@ -45,6 +45,9 @@ Computer Science, AI, and Data Science educator and practitioner with extensive 
 
 ## Generative AI
 
+- [Multiple PDF RAG Assistant](projects/Multiple-PDF-RAG-Assistant) — Multi-file Streamlit chat, Gemini embeddings, normalized FAISS search and file/page citations. Includes technical documentation, short and detailed CV entries, a LinkedIn draft and 30 interview answers.
+- [Multiple PDF case study](https://getamesay-ml-cloud-ai.getgad-uss.chatgpt.site/multiple-pdf-rag.html) — implementation details, source evidence and downloadable career materials.
+
 - [Single PDF RAG Assistant](projects/Single-PDF-RAG-Assistant) — Streamlit, local MiniLM embeddings, persistent FAISS indexing and hybrid semantic/keyword retrieval with neighboring chunks. Baseline: 11/12 manually reviewed passes. Final retest: 12/12 reported by the developer on the same one-PDF development/regression set; not a general accuracy claim.
 - [Read the case study](https://getamesay-ml-cloud-ai.getgad-uss.chatgpt.site/rag.html) — architecture, evaluation boundaries and downloadable CV/interview materials. Local Python app; the case-study page does not host inference.
 
